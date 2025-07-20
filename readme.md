@@ -1,7 +1,7 @@
-### 🚀 Price Tiers Layout
+# 🚀 Price Tiers Layout
 This project showcases a modern and responsive pricing table layout built purely with HTML and CSS. It's designed to provide a clear and attractive presentation of different service tiers, adapting seamlessly to various screen sizes.
 
-### 🌟 Features
+# 🌟 Features
 Responsive Design: The layout intelligently transforms from a stacked column view on mobile devices to an elegant row-based display on larger screens, ensuring optimal user experience across all devices.
 
 Clean & Maintainable CSS: Utilizes a well-structured app.css with a comprehensive CSS reset, promoting consistency and ease of modification.
@@ -16,14 +16,14 @@ Semantic HTML: Built with clear and semantic HTML5 elements for better structure
 
 Visual Appeal: Features rounded corners, subtle hover effects on buttons, and clear visual hierarchy for an engaging user interface.
 
-### 🛠️ Technologies Used
-# HTML5: For the fundamental structure and content of the pricing table.
+# 🛠️ Technologies Used
+### HTML5: For the fundamental structure and content of the pricing table.
 
-# CSS3: For all styling, layout, and responsive adjustments, leveraging Flexbox for flexible arrangements.
+### CSS3: For all styling, layout, and responsive adjustments, leveraging Flexbox for flexible arrangements.
 
-# Google Fonts: To import the "Open Sans" typeface.
+### Google Fonts: To import the "Open Sans" typeface.
 
-# 📂 Project Structure
+### 📂 Project Structure
 .
 ├── index.html
 ├── app.css
@@ -33,7 +33,7 @@ Visual Appeal: Features rounded corners, subtle hover effects on buttons, and cl
     └── icon3.png
 
 
-# index.html: The core HTML file that defines the structure of the pricing table, including the different pricing plans and their features.
+### index.html: The core HTML file that defines the structure of the pricing table, including the different pricing plans and their features.
 
 # app.css: The main stylesheet that dictates the visual presentation, responsiveness, and overall design of the pricing table.
 

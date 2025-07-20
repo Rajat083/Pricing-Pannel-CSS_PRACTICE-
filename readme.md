@@ -29,3 +29,7 @@ Google Fonts: To import the "Open Sans" typeface.
 index.html: The core HTML file that defines the structure of the pricing table, including the different pricing plans and their features.
 app.css: The main stylesheet that dictates the visual presentation, responsiveness, and overall design of the pricing table.
 icons/: A dedicated directory containing the image assets (e.g., icon1.png, icon2.png, icon3.png) used to visually represent each pricing plan.
+
+
+### Webpage Link: 
+https://rajat083.github.io/Pricing-Pannel-CSS_PRACTICE-/
